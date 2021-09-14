@@ -6,19 +6,19 @@ function TeaPage () {
 
     useEffect(() => {
         fetch('http://localhost:8000/teas')
-           .then((r) => r.json())
-           .then(setTeas);
+            .then((r) => r.json())
+            .then(setTeas);
         }, []);
 
     return (
         <div>
-             <h1>House Tea Made Locally</h1>
-             <br />
+            {/* <h1>House Tea Made Locally</h1> */}
+            <br />
              {/* <Search /> */}
-             <br />
-             <TeaList teas={teas}/>
+            <br />
+            <TeaList teas={teas}/>
         </div>
-     )
- }
+    )
+}
 
- export default TeaPage;
+export default TeaPage;
