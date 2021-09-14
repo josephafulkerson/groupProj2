@@ -7,12 +7,12 @@ function TeaCard ({tea}) {
     return (
         <li>
             <img key={id} src={image} alt={name} height="100" width="100"/>
-            <h3>{name}</h3>
-            <p>{category}</p>
+            <h2>{name}</h2>
+            <h4>{category.toUpperCase()}</h4>
             {caffeinated ? 
-            (<h4>"Caffein"</h4>) : 
-            (<h4>"Decaff"</h4>)}
-            <p>{rating}</p>
+            (<h5>Caffeinated</h5>) : 
+            (<h5>Decaffeinated</h5>)}
+            <p>Rated: {rating}/10</p>
         </li>
 
     )

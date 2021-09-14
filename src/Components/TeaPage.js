@@ -16,7 +16,8 @@ function TeaPage () {
              <br />
              {/* <Search /> */}
              <br />
-             <TeaList teas={teas}/>
+             <TeaList itemsPerRow={6}
+             teas={teas}/>
         </div>
      )
  }
