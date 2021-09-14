@@ -1,13 +1,13 @@
 import React from "react";
-import OurStory from "./OurStory";
-import ShoppingCart from "./ShoppingCart";
+import { NavLink } from "react-router-dom";
 
-function NavBar() {
+function NavBar({ onChangePage }) {
     return (
-        <div>
-            <OurStory />
-            <ShoppingCart />
-        </div>
+        <nav>
+            <NavLink exact to="/">Home</NavLink>
+            <NavLink to="/our-story">Our Story</NavLink>
+            <NavLink to="/shopping-cart">Shopping Cart</NavLink>
+        </nav>
     )
 }
 

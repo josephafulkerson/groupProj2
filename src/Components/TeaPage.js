@@ -15,9 +15,9 @@ function TeaPage () {
             {/* <h1>House Tea Made Locally</h1> */}
             <br />
              {/* <Search /> */}
-             <br />
-             <TeaList teas={teas}/>
-             <br />
+            <br />
+            <TeaList teas={teas}/>
+            <br />
             <TeaList teas={teas}/>
         </div>
     )

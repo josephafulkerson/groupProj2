@@ -1,5 +1,4 @@
 import React from "react";
-import NavBar from "./NavBar";
 
 function Header() {
     return (
@@ -7,7 +6,6 @@ function Header() {
             <h1>
                 House Teas Made Locally
             </h1>
-            <NavBar />
         </>
     )
 }
