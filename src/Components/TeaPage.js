@@ -15,14 +15,10 @@ function TeaPage () {
             {/* <h1>House Tea Made Locally</h1> */}
             <br />
              {/* <Search /> */}
-<<<<<<< HEAD
              <br />
-             <TeaList itemsPerRow={6}
-             teas={teas}/>
-=======
-            <br />
+             <TeaList teas={teas}/>
+             <br />
             <TeaList teas={teas}/>
->>>>>>> 51dc4bfad7f15b7c9b0238c4388f17a55e8e3dc9
         </div>
     )
 }
