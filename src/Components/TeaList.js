@@ -1,9 +1,10 @@
 import React from 'react'
 import TeaCard from './TeaCard'
 
+
 function TeaList({teas}) {
     return (
-        <ul>
+        <div className="cards">
             {teas.map((tea) => {
                 return(
                     <TeaCard 
@@ -12,7 +13,7 @@ function TeaList({teas}) {
                 )
             })}
             
-        </ul>
+        </div>
     )
 }
 
