@@ -13,12 +13,11 @@ function TeaPage () {
         }, []);
 
         const teasToDisplay = teas.filter((tea) =>
-    tea.name.toLowerCase().includes(searchTerm.toLowerCase())
+    tea.keywords.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
     return (
         <div>
-            {/* <h1>House Tea Made Locally</h1> */}
             <br />
              <Search searchTerm={searchTerm} onSearchChange={setSearchTerm}/>
             <br />
