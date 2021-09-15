@@ -1,3 +1,15 @@
+h1 {
+  color: green;
+}
+
+
+
+
+
+
+/* Everything after this point was here when we created the App, unsure of its necessity.  I just added the h1 styling to make sure that we are linked correctly. -Kolt */
+
+
 .App {
   text-align: center;
 }

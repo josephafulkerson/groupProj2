@@ -13,8 +13,8 @@ function TeaPage () {
         }, []);
 
         const teasToDisplay = teas.filter((tea) =>
-    tea.keywords.toLowerCase().includes(searchTerm.toLowerCase())
-  );
+            tea.keywords.toLowerCase().includes(searchTerm.toLowerCase())
+        );
 
     return (
         <div>
@@ -22,7 +22,6 @@ function TeaPage () {
              <Search searchTerm={searchTerm} onSearchChange={setSearchTerm}/>
             <br />
             <TeaList teas={teasToDisplay}/>
-            <br />
         </div>
     )
 }

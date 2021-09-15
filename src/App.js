@@ -5,6 +5,7 @@ import Header from "./Components/Header";
 import NavBar from "./Components/NavBar";
 import OurStory from "./Components/OurStory";
 import ShoppingCart from "./Components/ShoppingCart";
+import './App.css'
 
 function App(){
   const [page, setPage] = useState("/")
