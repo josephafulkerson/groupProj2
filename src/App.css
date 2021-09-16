@@ -86,6 +86,14 @@ h2 {
   padding-top: 75px;
 }
 
+.add{
+  padding: 1rem;
+}
+
+.remove{
+  padding: 1rem
+}
+
 .itemPrice{
   position: relative;
   padding-top: 75px;
