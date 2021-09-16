@@ -2,17 +2,28 @@ h1 {
   color: green;
 }
 
-.cards {
+.cardsLayout {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(15em, 1fr));
-  grid-gap: 1em;
-  border: solid black;
-  margin: 5px;
-  padding: 10px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 1rem;
+  padding: 5px;
+  margin: 10px;
+  border: solid green;
   text-align: center;
 }
 
+.teaCards {
+  border: solid black;
+  padding: 5px;
+  background-color: rgba(51, 183, 47, .3);
+}
 
+button {
+  background-color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  
+}
 
 
 /* Everything after this point was here when we created the App, unsure of its necessity.  I just added the h1 styling to make sure that we are linked correctly. -Kolt */

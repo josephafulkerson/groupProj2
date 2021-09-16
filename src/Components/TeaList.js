@@ -5,12 +5,13 @@ import TeaCard from './TeaCard'
 function TeaList({teas}) {
 
     return (
-        <div>
+        <div className="cardsLayout">
             {teas.map((tea) => {
                 return(
                     <TeaCard 
                     key={tea.id}
-                    tea={tea}/>
+                    tea={tea}
+                    />
                 )
             })}
         </div>

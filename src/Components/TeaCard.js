@@ -8,9 +8,10 @@ function TeaCard ({tea}) {
     function handleToggleDetails() {
         setDetails((details) => !details);
       }
+
     
     return (
-        <div className="cards">
+        <div className="teaCards">
             
             <img key={id} src={image} alt={name} height="200" width="200" />
             <h2>{name}</h2>
@@ -22,12 +23,12 @@ function TeaCard ({tea}) {
             
             {details ? (
                 <button onClick={handleToggleDetails}>
-                  {description}<br />${price}
+                  {description}<br /><br />${price}/ounce<br /><br /> Click again to close
                 </button>
               ) : (
                 <button onClick={handleToggleDetails}>More Info</button>
               )}
-
+            <br /><br />
             <button>Add To Cart</button>
 
         </div>

@@ -3,7 +3,7 @@
       {
         "id": 1,
         "name": "Assam",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Assam-Tee_SFTGFOP1.jpg",
+        "image": "https://cdn11.bigcommerce.com/s-icmhjzy/images/stencil/1280x1280/products/501/3892/Golden_Assam_Rnd__20427.1536260195.png?c=2",
         "caffeinated" : true,
         "category" : "black",
         "rating" : 8.7,
@@ -14,7 +14,7 @@
       {
         "id": 2,
         "name": "Darjeeling",
-        "image": "https://www.seriouseats.com/thmb/_dCiONsg7jaX0AwjCPvnYSLOU2Y=/450x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__drinks.seriouseats.com__images__2012__07__20120613-tea-leaves-8367c531b5454399bd1ad706c28d2a5c.jpg",
+        "image": "https://www.novustea.co.uk/wp-content/uploads/Organic-Darjeeling-Loose-Leaf.png",
         "caffeinated" : true,
         "category" : "black",
         "rating" : 9.4,
@@ -25,7 +25,7 @@
       {
         "id": 3,
         "name": "Ceylon",
-        "image": "https://www.youherbit.com/wp-content/uploads/2019/11/english-breakfast.jpg",
+        "image": "https://cdn11.bigcommerce.com/s-icmhjzy/images/stencil/1280x1280/products/120/5117/Ceylon_Rnd__82696.1591732652.png?c=2",
         "caffeinated" : true,
         "category" : "black",
         "rating" : 9.1,
@@ -36,7 +36,7 @@
       {
         "id": 4,
         "name": "Chai Kee Mun",
-        "image": "https://cdn.shopify.com/s/files/1/0003/9596/8567/products/KeemunTOP_0ab0a134-2d4d-402e-a657-3a1fa823d420.jpg?v=1614893357",
+        "image": "https://cdn11.bigcommerce.com/s-jl3t5tg/images/stencil/920x596/products/121/2607/organic-keemun-premium__54588.1565979283.png?c=2",
         "caffeinated" : true,
         "category" : "black",
         "rating" : 7.9,
@@ -47,7 +47,7 @@
       {
         "id": 5,
         "name": "English Breakfast Tea",
-        "image": "https://cdn.shopify.com/s/files/1/0557/4331/6157/products/578dbb988ffa8f84fee5c231509e1215_1120x.jpg?v=1628287515",
+        "image": "https://cdn.shopify.com/s/files/1/0087/9142/5124/products/EnglishBreakfast.png?v=1588018665",
         "caffeinated" : true,
         "category" : "black",
         "rating" : 8.4,
@@ -58,7 +58,7 @@
       {
         "id": 6,
         "name": "Earl Gray",
-        "image": "https://www.penniestea.com/wp-content/uploads/2016/03/Cream-Earl-Gray.jpg",
+        "image": "https://cdn.shopify.com/s/files/1/0087/9142/5124/products/EarlGrayMoonlightcopy_grande.png?v=1586461746",
         "caffeinated" : true,
         "category" : "black",
         "rating" : 9.1,
@@ -69,7 +69,7 @@
       {
         "id": 7,
         "name": "Chai Tea",
-        "image": "https://cdn.shopify.com/s/files/1/2217/5179/products/full_c29a2896-5b65-4d90-a0b5-34b6ba0c1162_550x550.jpg?v=1620997321",
+        "image": "https://cdn11.bigcommerce.com/s-jl3t5tg/images/stencil/920x596/products/132/2124/organic-masala-chai-black-tea__35031.1501624989.png?c=2",
         "caffeinated" : true,
         "category" : "black",
         "rating" : 9.2,
@@ -80,7 +80,7 @@
       {
         "id": 8,
         "name": "Lapsang Souchong",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Lapsang_Souchong.jpg",
+        "image": "https://cdn11.bigcommerce.com/s-jl3t5tg/images/stencil/920x596/products/124/2106/organic-lapsang-souchong-black-tea__03648.1501624486.png?c=2",
         "caffeinated" : true,
         "category" : "black",
         "rating" : 8.7,
@@ -91,7 +91,7 @@
       {
         "id": 9,
         "name": "Kenyan Black Tea",
-        "image": "https://cdn.shopify.com/s/files/1/0764/1953/products/Kenya-Black_1024x1024_2x_6d9fa94c-7be0-43ae-a05e-f1f3efa6463a_530x@2x.jpg?v=1613685674",
+        "image": "https://trueteacompany.co.uk/wp-content/uploads/2020/07/Kenya-Kaproret-Black-Tea.png",
         "caffeinated" : true,
         "category" : "black",
         "rating" : 8.9,
