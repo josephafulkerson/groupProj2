@@ -1,8 +1,8 @@
-import React from 'react'
-import TeaCard from './TeaCard'
+import React from 'react';
+import TeaCard from './TeaCard';
 
 
-function TeaList({teas}) {
+function TeaList({teas, handleAddCart, cartItems}) {
 
     return (
         <div className="cardsLayout">
@@ -11,6 +11,8 @@ function TeaList({teas}) {
                     <TeaCard 
                     key={tea.id}
                     tea={tea}
+                    handleAddCart={handleAddCart}
+                    cartItems={cartItems}
                     />
                 )
             })}
@@ -18,4 +20,4 @@ function TeaList({teas}) {
     )
 }
 
- export default TeaList;
+export default TeaList;

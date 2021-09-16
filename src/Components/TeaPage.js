@@ -1,8 +1,8 @@
-import React, {useState, useEffect} from 'react'
+import React, {useState, useEffect} from 'react';
 import TeaList from './TeaList';
-import Search from './Search'
+import Search from './Search';
 
-function TeaPage () {
+function TeaPage({handleAddCart, cartItems}) {
     const [teas, setTeas] = useState([])
     const [searchTerm, setSearchTerm] = useState("")
 
@@ -19,9 +19,9 @@ function TeaPage () {
     return (
         <div>
             <br />
-             <Search searchTerm={searchTerm} onSearchChange={setSearchTerm}/>
+            <Search searchTerm={searchTerm} onSearchChange={setSearchTerm}/>
             <br />
-            <TeaList teas={teasToDisplay}/>
+            <TeaList  teas={teasToDisplay} handleAddCart={handleAddCart} cartItems={cartItems} />
         </div>
     )
 }

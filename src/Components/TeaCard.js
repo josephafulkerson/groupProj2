@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 
-function TeaCard ({tea}) {
+function TeaCard ({tea, handleAddCart}) {
     const {id, name, image, caffeinated, category, rating, description, price} = tea
 
     const [details, setDetails] = useState()
@@ -29,8 +29,7 @@ function TeaCard ({tea}) {
                 <button onClick={handleToggleDetails}>More Info</button>
               )}
             <br /><br />
-            <button>Add To Cart</button>
-
+            <button onClick={()=>handleAddCart(tea)}>Add To Cart</button>
         </div>
     )
 }
