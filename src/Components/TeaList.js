@@ -2,7 +2,7 @@ import React from 'react';
 import TeaCard from './TeaCard';
 
 
-function TeaList({teas, handleAddCart, cartItems}) {
+function TeaList({teas, handleAddCart, cartItems, fetchSwitch, setFetchSwitch}) {
 
     return (
         <div className="cardsLayout">
@@ -13,6 +13,8 @@ function TeaList({teas, handleAddCart, cartItems}) {
                     tea={tea}
                     handleAddCart={handleAddCart}
                     cartItems={cartItems}
+                    fetchSwitch={fetchSwitch} 
+                    setFetchSwitch={setFetchSwitch}
                     />
                 )
             })}
