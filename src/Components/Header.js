@@ -6,6 +6,7 @@ function Header() {
             <h1>
                 House Teas Made Locally
             </h1>
+            <h3>Discover Your Delectable Cup</h3>
         </>
     )
 }

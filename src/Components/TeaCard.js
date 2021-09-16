@@ -15,7 +15,7 @@ function TeaCard ({tea, handleAddCart}) {
             
             <img key={id} src={image} alt={name} height="200" width="200" />
             <h2>{name}</h2>
-            <h3>{category.toUpperCase()}</h3>
+            <p>{category.toUpperCase()}</p>
             {caffeinated ? 
             (<h5>Caffeinated</h5>) : 
             (<h5>Decaffeinated</h5>)}

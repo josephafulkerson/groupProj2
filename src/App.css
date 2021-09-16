@@ -1,5 +1,38 @@
 h1 {
-  color: green;
+  color: rgb(90, 179, 84);
+  text-align: left;
+  padding-top: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-left: 1em;
+}
+
+h3 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: left;
+  margin-left: 3.5em;
+  color: rgba(90, 179, 84, .8);
+}
+
+.navBar {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.searchBar {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 18px;
+  color: rgb(30, 98, 25);
+}
+
+.searchInput {
+  box-shadow: 0 8px 16px 0 rgba(1,1,1,.385);
+  padding-left: .4em;
+  position:relative;
+}
+
+.cart {
+  text-align: center;
 }
 
 .cardsLayout {
@@ -8,25 +41,34 @@ h1 {
   grid-gap: 1rem;
   padding: 5px;
   margin: 10px;
-  border: solid green;
-  text-align: center;
+  border: solid rgba(90, 179, 84, .4);
+  border-width: .5em;
+  text-align: center;;
+  box-shadow: 0 8px 16px 0 rgba(1,1,1,.385)
 }
 
 .teaCards {
-  border: solid black;
-  padding: 5px;
+  border: solid rgba(51, 183, 47, .9);
+  padding: 15px;
   background-color: rgba(51, 183, 47, .3);
+  box-shadow: 0 8px 16px 0 rgba(1,1,1,.385);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 button {
-  background-color: whitesmoke;
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: transparent;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 1em;
+  border-radius: 1em;
+  cursor: pointer;
   
 }
 
-.row img {
-  max-height: 50px;
+
+
+.row {
+  border: solid black;
+  height: 10em;
 }
 
 

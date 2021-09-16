@@ -102,7 +102,7 @@
       {
         "id": 10,
         "name": "Nilgiri",
-        "image": "https://cdn11.bigcommerce.com/s-gbio3rgsga/images/stencil/1280x1280/products/205/458/Nilgiri-Loose-Leaf-Black-Tea__77298.1618415557.jpg?c=2",
+        "image": "https://cdn11.bigcommerce.com/s-jl3t5tg/images/stencil/920x596/products/207/2142/organic-nilgiri-black-tea__06507.1501625400.png?c=2",
         "caffeinated" : true,
         "category" : "black",
         "rating" : 8.6,
@@ -113,7 +113,7 @@
       {
         "id": 11,
         "name": "Jasmine Green Tea",
-        "image": "https://www.thespruceeats.com/thmb/Vdxp8hyK9ljbOS7TTuMSeJmCS9I=/300x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/IMG_3691-56a176073df78cf7726adbf0.jpg",
+        "image": "https://cdn11.bigcommerce.com/s-jl3t5tg/images/stencil/920x596/products/118/2088/organic-jasmine-green-tea__39203.1501615408.png?c=2",
         "caffeinated" : true,
         "category" : "green",
         "rating" : 9.3,
@@ -124,7 +124,7 @@
       {
         "id": 12,
         "name": "Moroccan Mint",
-        "image": "https://www.thespruceeats.com/thmb/JlFRHG3m5ayd9PZtyKOQCaFiPDM=/2048x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/easy-fresh-mint-tea-recipe-766391-6_preview-5b291f95ba61770036733329.jpeg",
+        "image": "https://cdn11.bigcommerce.com/s-icmhjzy/images/stencil/1280x1280/products/170/5168/Mild_Mint_Rnd__20976.1591042991.png?c=2",
         "caffeinated" : true,
         "category" : "green",
         "rating" : 9.2,
@@ -135,7 +135,7 @@
       {
         "id": 13,
         "name": "Genmaicha",
-        "image": "https://www.thespruceeats.com/thmb/wlFFBDtQtPk1plTRdge3rDC91Ow=/500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Genmaicha-56a1764e3df78cf7726adf28.jpg",
+        "image": "https://cdn11.bigcommerce.com/s-icmhjzy/images/stencil/1280x1280/products/152/3042/Genmaicha_Rnd__40858.1521922061.png?c=2",
         "caffeinated" : true,
         "category" : "green",
         "rating" : 9.4,
@@ -146,7 +146,7 @@
       {
         "id": 14,
         "name": "Bi Luo Chun",
-        "image": "https://www.thespruceeats.com/thmb/4hxL_6SWZHAmlz8DbzWxYJfN8iM=/1782x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Huang_Jin_Gui_Tea-5b6b180c46e0fb005098ff69.jpeg",
+        "image": "https://cdn.shopify.com/s/files/1/2801/7562/products/Transparent_-_Bi_Luo_Chun.png?v=1568818851",
         "caffeinated" : true,
         "category" : "green",
         "rating" : 8.9,
@@ -157,7 +157,7 @@
       {
         "id": 15,
         "name": "Dragonwell",
-        "image": "https://www.thespruceeats.com/thmb/2Aav6FXpYhm3CXbDiL1V-RyrESQ=/500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LungChing-56a175f23df78cf7726adaee.jpg",
+        "image": "http://cdn.shopify.com/s/files/1/0508/5347/8576/products/RevlTea_Dragonwell_Leaves_1200x1200.png?v=1622215133",
         "caffeinated" : true,
         "category" : "green",
         "rating" : 9.0,
@@ -168,7 +168,7 @@
       {
         "id": 16,
         "name": "Houjicha",
-        "image": "https://www.thespruceeats.com/thmb/44B7IfVrIug8m__jU-imLOwKPfI=/500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Hojicha-56a1764f3df78cf7726adf32.jpg",
+        "image": "https://cdn.shopify.com/s/files/1/0079/8395/6035/products/Premium-Houjicha-texture_1333x.png?v=1567387393",
         "caffeinated" : true,
         "category" : "green",
         "rating" : 8.8,
@@ -179,7 +179,7 @@
       {
         "id": 17,
         "name": "Kukicha",
-        "image": "https://www.thespruceeats.com/thmb/RTaUB94RvgzTkljzipYRiJFaqqo=/2048x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kukicha-5b6b149a46e0fb0050075999.jpg",
+        "image": "https://cdn11.bigcommerce.com/s-e6mb4wpm5e/images/stencil/300x300/products/744/1100/kukicha__60660.1536800762.png?c=2",
         "caffeinated" : true,
         "category" : "green",
         "rating" : 8.9,
@@ -190,7 +190,7 @@
       {
         "id": 18,
         "name": "Sencha",
-        "image": "https://www.thespruceeats.com/thmb/j3ihaCr0OxKgLIFn5Ezmp1K7VlU=/500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AsamushiSencha-56a175f23df78cf7726adaf5.jpg",
+        "image": "https://cdn11.bigcommerce.com/s-icmhjzy/images/stencil/1280x1280/products/164/3054/Kyushu_Rnd__72056.1577811539.png?c=2",
         "caffeinated" : true,
         "category" : "green",
         "rating" : 9.6,
@@ -201,7 +201,7 @@
       {
         "id": 19,
         "name": "Gyokuro",
-        "image": "https://www.thespruceeats.com/thmb/F2Sw767d7XHMGUj61ubqfDmPmAE=/500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YameGyokuro-56a175f93df78cf7726adb69.jpg",
+        "image": "https://cdn.shopify.com/s/files/1/0494/3597/products/yamegyokuro.png?v=1621411631",
         "caffeinated" : true,
         "category" : "green",
         "rating" : 9.0,

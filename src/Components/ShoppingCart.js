@@ -7,16 +7,16 @@ function ShoppingCart({cartItems, handleAddCart, handleRemoveCart}) {
     const totalPrice = itemsPrice + taxPrice + shippingPrice;
 
     return (
-        <div>
-            <h2>
+        <div className="item-container">
+            <h2 className="cart">
                 Shopping Cart
             </h2>
-            <div id="item=container">
+            <div>
                 {cartItems.length === 0 && <div> Cart is Empty </div> }
             </div>
             {cartItems.map((item) => (
                 <div key={item.id} className="row"> 
-                    <img src={item.image}></img>
+                    <img src={item.image} height="50" width="50"></img>
                     <div>{item.name}</div>
                     <div>
                         <button onClick={()=>handleAddCart(item)} className="add"> + </button>
