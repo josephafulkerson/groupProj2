@@ -212,7 +212,7 @@
       {
         "id": 20,
         "name": "Matcha",
-        "image": "https://www.thespruceeats.com/thmb/40UxkUBZJyhu8tgMkETJbgO0ivQ=/500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1-56a175ce3df78cf7726ad869.jpg",
+        "image": "https://homegrownlivingfoods.ca/wp-content/uploads/2020/10/matcha-green-powder.png",
         "caffeinated" : true,
         "category" : "green",
         "rating" : 9.7,
@@ -223,7 +223,7 @@
       {
         "id": 21,
         "name": "White Peony",
-        "image": "https://cdn.shopify.com/s/files/1/0261/1167/2399/products/WP-001-2_600x.jpg?v=1568923240",
+        "image": "https://cdn11.bigcommerce.com/s-icmhjzy/images/stencil/1280x1280/products/207/5197/White_Peony_Rnd__43751.1591658725.png?c=2",
         "caffeinated" : true,
         "category" : "white",
         "rating" : 9.4,
@@ -234,7 +234,7 @@
       {
         "id": 22,
         "name": "Silver Needle",
-        "image": "https://cdn.shopify.com/s/files/1/0003/9596/8567/products/KingofSilverTOP_c4de937d-cdcc-4687-afa0-d2b28f1b1917.jpg?v=1616605222",
+        "image": "http://cdn.shopify.com/s/files/1/0302/1241/products/Chinese_Silver_Needles_1_grande.png?v=1588882956",
         "caffeinated" : true,
         "category" : "white",
         "rating" : 9.8,
@@ -245,7 +245,7 @@
       {
         "id": 23,
         "name": "Long Life Eyebrow",
-        "image": "https://cdn.shopify.com/s/files/1/1865/9785/products/Shou_Mei_Longevity_Eyebow_White_tea_2048x.jpg?v=1571335528",
+        "image": "https://i.pinimg.com/originals/4b/70/f7/4b70f73adefe30d6370ebcfaae28d114.gif",
         "caffeinated" : true,
         "category" : "white",
         "rating" : 9.3,
@@ -256,7 +256,7 @@
       {
         "id": 24,
         "name": "Tribute Eyebrow",
-        "image": "https://chazhidao.org/sites/default/files/tea/gongmei002.jpg",
+        "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/26759316/2293219140.jpg",
         "caffeinated" : true,
         "category" : "white",
         "rating" : 9.1,
@@ -278,7 +278,7 @@
       {
         "id": 26,
         "name": "Iron Goddess",
-        "image": "https://cdn.shopify.com/s/files/1/0705/7853/products/iron-goddess-of-mercy-p31-15_zoom_2048x.jpg?v=1540829342",
+        "image": "https://cdn.shopify.com/s/files/1/1576/7147/products/iron-goddess-of-mercy-organic-rooibos-tea_cb0de099-d683-446f-9114-20d22732dc03_large.png?v=1502736981",
         "caffeinated" : true,
         "category" : "oolong",
         "rating" : 9.5,
@@ -289,7 +289,7 @@
       {
         "id": 27,
         "name": "Wuyi Oolong",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Da_Hong_Pao_Oolong_tea_leaf.jpg",
+        "image": "http://cdn.shopify.com/s/files/1/1576/7147/products/wuyi-da-hong-pao-organic-oolong-tea_16e3564d-5a82-4f7e-a46c-ccd10647d672_grande.png?v=1502744172",
         "caffeinated" : true,
         "category" : "oolong",
         "rating" : 9.8,
@@ -300,7 +300,7 @@
       {
         "id": 28,
         "name": "High Mountain",
-        "image": "https://s.yimg.com/aah/tenrentea/high-mountain-green-tea-25.png",
+        "image": "https://woodshedtea.com/images/mountain-oolong.png",
         "caffeinated" : true,
         "category" : "oolong",
         "rating" : 9.2,
@@ -311,7 +311,7 @@
       {
         "id": 29,
         "name": "Jin Xuan",
-        "image": "https://images.squarespace-cdn.com/content/v1/58e2565f1b631bf0ffe63b51/1579628631616-7JFSJ06Q4QDF7IK16U2T/golden-buds-milk-oolong-jin-xuan-tea-taiwan-2020a.jpg?format=1000w",
+        "image": "http://cdn.shopify.com/s/files/1/1576/7147/products/jinxuan-organic-oolong-tea_6991db2b-16e9-4682-9429-91ab161b1816_grande.png?v=1502737312",
         "caffeinated" : true,
         "category" : "oolong",
         "rating" : 8.9,
@@ -322,7 +322,7 @@
       {
         "id": 30,
         "name": "Rooibos",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Rooibos_geschnitten.jpg",
+        "image": "http://cdn.shopify.com/s/files/1/0302/1241/products/Caramel_Rooibos_1_grande.png?v=1628190393",
         "caffeinated" : false,
         "category" : "herbal",
         "rating" : 9.2,
@@ -333,7 +333,7 @@
       {
         "id": 31,
         "name": "Chamomile",
-        "image": "https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/01/chamomile-tea-on-a-board-1024x683.jpg?w=1155&h=1541",
+        "image": "https://cdn.shopify.com/s/files/1/0257/7812/6928/products/Chamomile-Leaves.png?v=1616530418",
         "caffeinated" : false,
         "category" : "herbal",
         "rating" : 9.2,
@@ -344,7 +344,7 @@
       {
         "id": 32,
         "name": "Peppermint",
-        "image": "https://i.ndtvimg.com/i/2017-02/peppermint-tea_620x350_51488225621.jpg",
+        "image": "https://cdn11.bigcommerce.com/s-jl3t5tg/images/stencil/920x596/products/141/2154/organic-peppermint__64072.1501625636.png?c=2",
         "caffeinated" : false,
         "category" : "herbal",
         "rating" : 9.1,
@@ -355,7 +355,7 @@
       {
         "id": 33,
         "name": "Ginger",
-        "image": "https://post.medicalnewstoday.com/wp-content/uploads/2020/08/642x361-Does_Ginger_Tea_Have_Any_Bad_Side_Effects.jpg",
+        "image": "https://cdn.shopify.com/s/files/1/1171/6206/products/Orage_Ginger_Mint_600x.png?v=1566397757",
         "caffeinated" : false,
         "category" : "herbal",
         "rating" : 9.3,
@@ -366,7 +366,7 @@
       {
         "id": 34,
         "name": "Hibiscus",
-        "image": "https://www.davidsonstea.com/images/products/detail/Hibiscus_Flowers_Web.jpg",
+        "image": "https://cdn11.bigcommerce.com/s-jl3t5tg/images/stencil/920x596/products/213/2539/organic-hibiscus-2019__91537.1550768746.png?c=2",
         "caffeinated" : false,
         "category" : "herbal",
         "rating" : 9.0,
@@ -377,7 +377,7 @@
       {
         "id": 35,
         "name": "Echinacea",
-        "image": "https://cdn11.bigcommerce.com/s-8466dwhhql/images/stencil/2048x2048/products/1215/1304/Echinacea_Elder_Tea__35645.1590520183.jpg?c=1",
+        "image": "https://cdn.shopify.com/s/files/1/2970/0930/products/pixlr-bg-result_69_2048x.png?v=1606167031",
         "caffeinated" : false,
         "category" : "herbal",
         "rating" : 8.9,
@@ -388,7 +388,7 @@
       {
         "id": 36,
         "name": "Sage",
-        "image": "https://cdn-fa.niceshops.com/upload/image/product/large/default/my-herbs-sage-tea-30-g-249561-en.jpg",
+        "image": "https://cdn.shopify.com/s/files/1/0219/5528/products/sage-whole_1024x1024.png?v=1368790816",
         "caffeinated" : false,
         "category" : "herbal",
         "rating" : 8.9,
@@ -399,7 +399,7 @@
       {
         "id": 37,
         "name": "Lemon Balm",
-        "image": "https://cdn-fa.niceshops.com/upload/image/product/large/default/my-herbs-lemon-balm-tea-30-g-249659-en.jpg",
+        "image": "http://cdn.shopify.com/s/files/1/0302/1241/products/Citron_Green_1_800x_c21afec8-2165-4ddd-b3f2-42b4e48be9c2_grande.png?v=1628190987",
         "caffeinated" : false,
         "category" : "herbal",
         "rating" : 9.0,
@@ -410,7 +410,7 @@
       {
         "id": 38,
         "name": "Rose Hip",
-        "image": "https://www.davidsonstea.com/images/products/detail/Rosehips_Web.jpg",
+        "image": "https://cdn.shopify.com/s/files/1/0302/1241/products/Rosehips_1024x1024.png?v=1588884382",
         "caffeinated" : false,
         "category" : "herbal",
         "rating" : 9.1,
@@ -421,7 +421,7 @@
       {
         "id": 39,
         "name": "Passionflower",
-        "image": "https://www.jparkers.co.uk/news/wp-content/uploads/2020/10/passionflower_tea.jpg",
+        "image": "https://cdn.shopify.com/s/files/1/0087/9142/5124/products/Decaf_French_Vanilla_copy_500x500.png?v=1626756769",
         "caffeinated" : false,
         "category" : "herbal",
         "rating" : 9.2,
@@ -432,7 +432,7 @@
       {
         "id": 40,
         "name": "Licorice Root",
-        "image": "https://cdn.shopify.com/s/files/1/0012/8348/9897/products/Licorice_Root_Tea_980x.jpg?v=1549645554",
+        "image": "http://cdn.shopify.com/s/files/1/0302/1241/products/Licorice_grande.png?v=1588884223",
         "caffeinated" : false,
         "category" : "herbal",
         "rating" : 9.4,
