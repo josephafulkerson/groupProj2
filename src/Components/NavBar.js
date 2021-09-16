@@ -4,9 +4,9 @@ import { NavLink } from "react-router-dom";
 function NavBar({ onChangePage, countCartItems }) {
     return (
         <nav className="navBar">
-            <NavLink exact to="/">Home</NavLink>
-            <NavLink to="/our-story">Our Story</NavLink>
-            <NavLink to="/shopping-cart">
+            <NavLink className="homeNav" exact to="/">Home</NavLink>
+            <NavLink className="storyNav" to="/our-story">Our Story</NavLink>
+            <NavLink className="cartNav" to="/shopping-cart">
                 Shopping Cart { ' ' } 
                 {countCartItems ? (
                     <button>{countCartItems}</button>
