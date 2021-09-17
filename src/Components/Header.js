@@ -6,7 +6,7 @@ function Header() {
         <>
             <div className="headNameLogo">
                 <h1>{headerName}</h1>
-                <img className="logo" src="https://i.imgur.com/sWjJlKc.png" />
+                <img className="logo" src="https://i.imgur.com/6eI0bJF.png" />
             </div>
             <h2>Discover Your Delectable Cup</h2>
         </>
