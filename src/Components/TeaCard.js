@@ -6,6 +6,7 @@ function TeaCard ({ tea, teas, handleAddCart, fetchSwitch, setFetchSwitch }) {
     const [details, setDetails] = useState();
     const [isAddRating, setIsAddRating] = useState(false);
     const [userRating, setUserRating] = useState(rating);
+    const [avgUserRating, setAvgUserRating] = useState(userRating)
 
     function handleToggleDetails() {
         setDetails((details) => !details);
@@ -17,7 +18,7 @@ function TeaCard ({ tea, teas, handleAddCart, fetchSwitch, setFetchSwitch }) {
 
     function updateRating(e) {
       e.preventDefault()
-      setUserRating(((parseFloat(userRating) + parseFloat(rating)) / 2).toFixed(1))
+      setAvgUserRating(((parseFloat(userRating) + parseFloat(rating)) / 2).toFixed(1))
       console.log(userRating)
       ratingPatch()
       setIsAddRating(!isAddRating)
@@ -33,7 +34,7 @@ function TeaCard ({ tea, teas, handleAddCart, fetchSwitch, setFetchSwitch }) {
           headers: {
             "Content-Type": 'application/json',
           },
-          body: JSON.stringify({...tea, rating: userRating})
+          body: JSON.stringify({...tea, rating: avgUserRating})
       }) 
         .then(r => r.json())
         .then(data => {
@@ -63,7 +64,7 @@ function TeaCard ({ tea, teas, handleAddCart, fetchSwitch, setFetchSwitch }) {
                 <button type='submit'>Rate!</button>
               </form>
             )}
-            <p>Rated: {rating}/10</p>
+            <p>Rated: {avgUserRating}/10</p>
             <button onClick={averageButton}> Add rating </button>
 
             
