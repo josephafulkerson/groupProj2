@@ -21,6 +21,10 @@ h2 {
   color: #1DAF70;
 }
 
+h3{
+  color: #1DAF70
+}
+
 .navBar {
   text-align: center;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,6 +50,25 @@ h2 {
   margin-bottom: 30px;
   font-size: 22px;
   color: #0E5838;
+}
+
+.storyTeamImg {
+  border-radius: 150%; 
+  width: 125px;
+  height: 125px;
+}
+
+div.storyTeamMember {
+  vertical-align: top;
+  display: inline-block;
+  text-align: center;
+  margin-inline: 5.5em;
+  margin-bottom: 10px;
+  width: 325px;
+}
+
+.storyTeamName{
+  display: block;
 }
 
 .cartNav{

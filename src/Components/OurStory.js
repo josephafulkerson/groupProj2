@@ -6,6 +6,18 @@ function OurStory() {
             <h2>
                 Our Story
             </h2>
+            <div className="storyTeamMember">
+                <img className="storyTeamImg" src="https://i.imgur.com/ay8vuPW.jpg" />
+                <h3 className="storyTeamName">London Rosemary</h3>
+            </div>
+            <div className="storyTeamMember">
+                <img className="storyTeamImg" src="https://i.imgur.com/m0gjSQC.jpg" />
+                <h3 className="storyTeamName">Kolt Victor</h3>
+            </div>
+            <div className="storyTeamMember">
+                <img className="storyTeamImg" src="https://mossercapital.com/wp-content/uploads/2018/03/MOSSER-HEADSHOT-PLACEHOLDER.png" />
+                <h3 className="storyTeamName">Joseph Fulkerson</h3>
+            </div>
             <p>
                 House Teas Made Locally is a tea house and internet cafe,  bringing comfort and warmth all year round through our specialty blends. Our individual and group workspaces are designed to help you maintain focus and grow your creativity, featuring ergonomic furniture and handcrafted art installations from local artists.
             </p>
