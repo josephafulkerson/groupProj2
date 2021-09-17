@@ -61,7 +61,7 @@ function TeaCard ({ tea, teas, handleAddCart, fetchSwitch, setFetchSwitch }) {
                   value={userRating}
                   step="0.1">
                 </input>
-                <button type='submit'>Rate!</button>
+                <button type='submit'>Rate</button>
               </form>
             )}
             <p>Rated: {avgUserRating}/10</p>
@@ -73,7 +73,7 @@ function TeaCard ({ tea, teas, handleAddCart, fetchSwitch, setFetchSwitch }) {
                   {description}<br /><br />${price}/ounce<br /><br /> Click again to close
                 </button>
               ) : (
-                <button onClick={handleToggleDetails}>More Info</button>
+                <button className="infoBttn" onClick={handleToggleDetails}>More Info</button>
               )}
             <br /><br />
             <button onClick={()=>handleAddCart(tea)}> Add To Cart </button>

@@ -9,7 +9,7 @@ function NavBar({ onChangePage, countCartItems }) {
             <NavLink className="cartNav" to="/shopping-cart">
                 Shopping Cart { ' ' } 
                 {countCartItems ? (
-                    <button>{countCartItems}</button>
+                    <button className="cartCount">{countCartItems}</button>
                 ): ""}
             </NavLink>
         </nav>
