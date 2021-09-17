@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Flatiron School Phase 2 Project - House Teas Made Locally
+This project has been created by London Rosemary, Kolt Victor, and Joseph Fulkerson. 
+
+## Running the project
+To get started, cd into the "src/" folder. Open up your terminal and run the folloring command: "json-server --watch db.json --port 8000" This will run our local server. Then, open a second terminal and cd into the "src/" folder again and run "npm start" This will open the file in your browser and you can view at your liesure. 
+
+Enjoy!
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

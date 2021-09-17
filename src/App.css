@@ -41,6 +41,10 @@ h3{
   color: #0E5838;
 }
 
+.navError{
+  text-align: center;
+}
+
 .our-story h2{
   text-align: center;
   margin-inline: 10em;

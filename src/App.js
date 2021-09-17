@@ -50,7 +50,7 @@ function handleRemoveCart(tea){
           <TeaPage handleAddCart={handleAddCart} cartItems={cartItems} />
         </Route>
         <Route path="*">
-          <h1>404 not found</h1>
+          <h1 className="navError">404-- Page Not Found</h1>
         </Route>
       </Switch>
     </div>

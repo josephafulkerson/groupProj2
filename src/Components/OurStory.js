@@ -7,15 +7,15 @@ function OurStory() {
                 Our Story
             </h2>
             <div className="storyTeamMember">
-                <img className="storyTeamImg" src="https://i.imgur.com/ay8vuPW.jpg" />
+                <img className="storyTeamImg" src="https://i.imgur.com/RqDVN2L.jpg" />
                 <h3 className="storyTeamName">London Rosemary</h3>
             </div>
             <div className="storyTeamMember">
-                <img className="storyTeamImg" src="https://i.imgur.com/m0gjSQC.jpg" />
+                <img className="storyTeamImg" src="https://i.imgur.com/5mrwmde.jpg" />
                 <h3 className="storyTeamName">Kolt Victor</h3>
             </div>
             <div className="storyTeamMember">
-                <img className="storyTeamImg" src="https://mossercapital.com/wp-content/uploads/2018/03/MOSSER-HEADSHOT-PLACEHOLDER.png" />
+                <img className="storyTeamImg" src="https://i.imgur.com/Pu2HUmT.jpg" />
                 <h3 className="storyTeamName">Joseph Fulkerson</h3>
             </div>
             <p>
