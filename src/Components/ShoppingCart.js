@@ -1,4 +1,5 @@
 import React from "react";
+import swal from 'sweetalert'
 
 function ShoppingCart({cartItems, handleAddCart, handleRemoveCart}) {
     const itemsPrice = cartItems.reduce((a,c) => a + c.price * c.qty, 0)
@@ -50,7 +51,7 @@ function ShoppingCart({cartItems, handleAddCart, handleRemoveCart}) {
                 </div>
                 <hr></hr> 
                     <div>
-                        <button onClick={() => alert("End of Demo. Thanks for Watching!")}>
+                        <button onClick={() => swal("Checkout complete!", "End of Demo", "success")}>
                             Checkout
                         </button>
                     </div>       
