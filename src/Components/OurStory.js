@@ -8,15 +8,15 @@ function OurStory() {
             </h2>
             <div className="storyTeamMember">
                 <img className="storyTeamImg" src="https://i.imgur.com/RqDVN2L.jpg" />
-                <h3 className="storyTeamName">London Rosemary</h3>
+                <h4 className="storyTeamName">London Rosemary</h4>
             </div>
             <div className="storyTeamMember">
                 <img className="storyTeamImg" src="https://i.imgur.com/5mrwmde.jpg" />
-                <h3 className="storyTeamName">Kolt Victor</h3>
+                <h4 className="storyTeamName">Kolt Victor</h4>
             </div>
             <div className="storyTeamMember">
                 <img className="storyTeamImg" src="https://i.imgur.com/Pu2HUmT.jpg" />
-                <h3 className="storyTeamName">Joseph Fulkerson</h3>
+                <h4 className="storyTeamName">Joseph Fulkerson</h4>
             </div>
             <p>
                 House Teas Made Locally is a tea house and internet cafe,  bringing comfort and warmth all year round through our specialty blends. Our individual and group workspaces are designed to help you maintain focus and grow your creativity, featuring ergonomic furniture and handcrafted art installations from local artists.

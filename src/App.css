@@ -1,11 +1,9 @@
 body{
-  background-color: #F9F8ED;
+  background-color: #4ac26a;
 }
 
-.headerNameLogo{
+.headNameLogo{
   vertical-align: middle;
-  float: left;
-  margin-bottom: 500px;
 }
 
 .logo{
@@ -16,34 +14,32 @@ body{
 }
 
 h1 {
-  color: #178C59;
-  float: left;
-  padding-top: 20px;
-  padding-left: 40px;
-  font-family: 'Courier New', Courier, monospace;
+  color: #4af377;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 45px;
-  margin-left: 1em;
+  text-shadow: 0 8px 16px black;
 }
 
 h2 {
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 30px;
-  text-align: left;
-  margin-left: 100px;
-  padding-top: 140px;
-  padding-left: 5px;
-  color: #1DAF70;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  color: #0dd943;
 }
 
 h3{
-  color: #1DAF70
+  color: #0d653f;
 }
 
 .navBar {
   text-align: center;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 22px;
   margin-top: 50px;
+  background-color: rgb(86, 214, 109);
+  box-shadow: 0 8px 16px 0 #0B472D;
+  color: black;
+  padding: 1em;
 }
 
 .homeNav{
@@ -56,6 +52,10 @@ h3{
   color: #0E5838;
 }
 
+.cartNav {
+  padding: 2rem;
+}
+
 .navError{
   text-align: center;
 }
@@ -63,19 +63,23 @@ h3{
 .our-story h2{
   text-align: center;
   margin-inline: 10em;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 } 
 
 .our-story p{
   margin-inline: 10em;
   margin-bottom: 30px;
   font-size: 22px;
-  color: #0E5838;
+  color: #f8f8f8;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .storyTeamImg {
   border-radius: 150%; 
   width: 125px;
   height: 125px;
+  border-color: solid black;
+  border-width: 1em;
 }
 
 div.storyTeamMember {
@@ -85,6 +89,7 @@ div.storyTeamMember {
   margin-inline: 5.5em;
   margin-bottom: 10px;
   width: 325px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .storyTeamName{
@@ -103,13 +108,13 @@ div.storyTeamMember {
 
 .searchBar {
   text-align: center;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 22px;
-  color: #0E5838;
+  color: #0d8350;
 }
 
 .searchBar label{
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .searchInput {
@@ -198,16 +203,16 @@ div.storyTeamMember {
 }
 
 .teaCards {
-  border: solid #1DAF70;
+  border: solid #169e63;
   padding: 15px;
-  background-color: #EAFDD9;
+  background-color: #ffffff;
   box-shadow: 0 8px 16px 0 #0B472D;
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 button {
   background-color: transparent;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 1em;
   border-radius: 1em;
   cursor: pointer;
@@ -216,47 +221,6 @@ button {
 button:hover, .btn:focus {
   color: #fff;
   outline: 0;
-  box-shadow: 0 0 12em 12em #178C59 inset;;
+  box-shadow: 0 0 12em 12em #14d783 inset;;
 }
 
-/* Everything after this point was here when we created the App, unsure of its necessity.  I just added the h1 styling to make sure that we are linked correctly. -Kolt */
-
-
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}

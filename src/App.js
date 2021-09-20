@@ -37,8 +37,10 @@ function handleRemoveCart(tea){
 
   return (
     <div>
-      <Header />
+
       <NavBar onChangePage={setPage} countCartItems={cartItems.length} />
+      <Header />
+
       <Switch>
         <Route path="/our-story">
           <OurStory />
